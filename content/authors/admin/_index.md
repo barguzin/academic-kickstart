@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Evgeny Noi
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California Santa Barbara
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a quantitative geographer doing research on locational theory pertaining to urban environment. My current focus is on geoAI and smart city policies. Previously, I worked in consulting capacities at the United Nations, Iowa Initiative for Sustainable Communities, Swedish Institute for Public Administration (SIPU) and the  City of Moscow. I hold a BA in Political Science from Irkutsk State University, Russia and an MS in Urban and Regional Planning from the University of Iowa, USA. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantitative Methods in Geography
+- Regional Science
+- GIScience
+- Visual Analytics
 
 education:
   courses:
