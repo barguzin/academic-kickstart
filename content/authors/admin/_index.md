@@ -29,16 +29,16 @@ interests:
 education:
   courses:
   - course: PhD in GIScience
-    institution: University of California Santa Barbara, Department of Geography
+    institution: University of California Santa Barbara, USA
     year: 2022
   - course: MA in Leadership for Sustainability
-    institution: Malmo University 
+    institution: Malmo University, Sweden 
     year: 2014
   - course: MS in Urban Planning
-    institution: University of Iowa
+    institution: University of Iowa, USA
     year: 2013
   - course: BS in Political Science 
-    institution: Irkutsk State University
+    institution: Irkutsk State University, Russia
     year: 2010
 
 # Social/Academic Networking
