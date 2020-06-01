@@ -28,6 +28,12 @@ subtitle = ""
   name = "R"
 #  description = "90%"
 
+[[feature]]
+  icon = "java"
+  icon_pack = "custom"
+  name = "Java"
+#  description = "90%"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
