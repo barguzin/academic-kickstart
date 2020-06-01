@@ -26,11 +26,11 @@ interests:
 - GIScience
 - GeoVisual Analytics
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: University of California Santa Barbara, Department of Geography
-#    year: 2018-now
+ education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: University of California Santa Barbara, Department of Geography
+    year: 2018-now
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
