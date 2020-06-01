@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  Visualizing Motion: A Framework for the Cartography of Movement (NSF grant #1853681).
+  Visualizing Motion: A Framework for the Cartography of Movement (NSF grant N1853681).
   > Researched state-of-the-art methods in (geo)visual analytics of movement and compiled
   > comprehensive taxonomy of visualization techniques.
   """
