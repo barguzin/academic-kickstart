@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
+#  description = "90%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+#  description = "100%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -41,10 +41,10 @@ subtitle = ""
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# [[feature]]
-#  icon = "beach-sunset"
-#  icon_pack = "custom"
-#  name = "Surfing"
+[[feature]]
+  icon = "py"
+  icon_pack = "custom"
+  name = "Surfing"
 #  description = "90%"
 
 +++
