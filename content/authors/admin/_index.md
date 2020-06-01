@@ -30,13 +30,16 @@ education:
   courses:
   - course: PhD in GIScience
     institution: University of California Santa Barbara, Department of Geography
-    year: *(2018 - now)*
+    year: 2022
+  - course: MA in Leadership for Sustainability
+    institution: Malmo University 
+    year: 2014
   - course: MS in Urban Planning
     institution: University of Iowa
-    year: *(2011 - 2013)*
+    year: 2013
   - course: BS in Political Science 
     institution: Irkutsk State University
-    year: 2005 - 2010
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
