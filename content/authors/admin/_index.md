@@ -26,7 +26,7 @@ interests:
 - GIScience
 - GeoVisual Analytics
 
- education:
+education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: University of California Santa Barbara, Department of Geography
