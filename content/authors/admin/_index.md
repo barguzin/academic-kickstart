@@ -36,7 +36,7 @@ education:
     year: *(2011 - 2013)*
   - course: BS in Political Science 
     institution: Irkutsk State University
-    year: *2005 - 2010*
+    year: 2005 - 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
