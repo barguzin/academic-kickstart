@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   * GEOG 190: Location Theory and Modelling
   """
 
-  [[experience]]
+[[experience]]
   title = "Team Lead"
   company = "Moscow IT Dept, Big Data Division"
   company_url = ""
@@ -65,8 +65,7 @@ date_format = "Jan 2006"
   date_start = "2015-12-01"
   date_end = "2017-09-01
   description = """
-  * Developed and employed ETL procedures to automate the processing of data from disjoint city
-  data systems
+  * Developed and employed ETL procedures to automate the processing of data from disjoint city data systems
   * Supplied data-analytics and visualizations for weekly mayoral briefings 
 """
 
