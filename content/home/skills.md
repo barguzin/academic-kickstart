@@ -42,9 +42,9 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 [[feature]]
-  icon = "py"
+  icon = "py.svg"
   icon_pack = "custom"
-  name = "Surfing"
+  name = "Python"
 #  description = "90%"
 
 +++
