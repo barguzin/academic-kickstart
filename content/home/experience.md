@@ -67,6 +67,6 @@ date_format = "Jan 2006"
   description = """
   * Developed and employed ETL procedures to automate the processing of data from disjoint city data systems
   * Supplied data-analytics and visualizations for weekly mayoral briefings 
-"""
+  """
 
 +++
