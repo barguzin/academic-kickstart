@@ -1,7 +1,6 @@
 ---
 title: "Jupyter Arch Completions"
-date: 2021-02-04T02:02:19-08:00
-draft: true
+date: 2021-02-03
 ---
 
 I recently had to make a clean OS install on my working laptop, so after beefing up the RAM on my Lenovo I finally decided on Manjaro distro. Manjaro comes in a few different flavors (desktop environments, such as KDE Plasma and GNOME), so making a switch from Fedora 31 with GNOME, chose to make the switch as seamless as  possible and opted to stick with the GNOME version. 
