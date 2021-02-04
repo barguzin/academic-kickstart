@@ -7,7 +7,7 @@ I recently had to make a clean OS install on my working laptop, so after beefing
 
 The installation process was a breeze and a set up did not take much time, compared to Arch Linux from which Manjaro is derived and which is notoriously laborious and time-consuming to install. I would devote another post to the differences between Fedora and Manjaro, suffice it to say these are very similar, but the switch did take some 'getting-used-to'. 
 
-![illustration](/home/barguzin/github/academic-kickstart/static/img/jupy.jpeg)
+{{< figure library="true" src="jupy.jpeg" title="Jupyter" >}}
 
 Since I mostly utilize Python data analysis stack in my research, I almost exclusively prefer working in Jupyter Notebooks, especially for exploratory data analysis (EDA). One of the first things you learn in Jupyter is that it can speed up code writing using the so-called auto-completions, similar to other IDEs on the market. You start writing something like **print(__pd.ver)** and then you hit the **Tab** to auto-complete the command, but nothing was happening. Obviously, there was some package conflict related with Jupyter dependencies.  
 
